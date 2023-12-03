@@ -1,5 +1,5 @@
 class Numero < ApplicationRecord
 
-	belongs_to :canal
+  belongs_to :canal
 # 
 end
